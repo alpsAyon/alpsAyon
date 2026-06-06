@@ -85,7 +85,7 @@ I'm also an enthusiastic flight sim pilot on Microsoft Flight Simulator 2024 —
 I'm actively seeking NHS data analyst and data engineer roles in the UK. If you're working on health data problems or hiring, I'd love to chat.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:2545745@swansea.ac.uk)
 
 ---
 
