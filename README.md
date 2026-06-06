@@ -55,9 +55,11 @@ I'm a data professional with a background in Computer Science and Network Admini
 ## 📈 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpsAyon&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpsAyon&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpsAyon&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alpsAyon&theme=default&hide_border=true" />
 </p>
 
 ---
