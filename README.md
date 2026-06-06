@@ -1,4 +1,4 @@
-# Hi, I'm Yousuf 👋
+# Hi, I'm Yousuf
 
 **Health Data Scientist | MSc Health Data Science, Swansea University**  
 *Passionate about using data to improve patient outcomes and NHS service delivery.*
@@ -7,15 +7,15 @@ I'm a data professional with a background in Computer Science and Network Admini
 
 ---
 
-## 🏥 What I'm working on
+##  What I'm working on
 
-- 📊 **NHS portfolio projects** — prescription cost analysis, A&E performance dashboards, and COVID-19 population health analysis for Wales
-- 🧠 **Health data modelling** — investigating modifiable lifestyle factors as predictors of cognitive decline using regression analysis in R
-- 🗄️ **RTT waiting list SQL database** — modelling NHS referral-to-treatment pathways
+-  **NHS portfolio projects** — prescription cost analysis, A&E performance dashboards, and COVID-19 population health analysis for Wales
+-  **Health data modelling** — investigating modifiable lifestyle factors as predictors of cognitive decline using regression analysis in R
+-  **RTT waiting list SQL database** — modelling NHS referral-to-treatment pathways
 
 ---
 
-## 🛠️ Tech stack
+##  Tech stack
 
 **Languages**
 
@@ -40,7 +40,7 @@ I'm a data professional with a background in Computer Science and Network Admini
 
 ---
 
-## 📌 Featured projects
+##  Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -52,7 +52,7 @@ I'm a data professional with a background in Computer Science and Network Admini
 
 ---
 
-## 📈 GitHub stats
+##  GitHub stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpsAyon&theme=default" />
@@ -64,7 +64,7 @@ I'm a data professional with a background in Computer Science and Network Admini
 
 ---
 
-## 🎓 Education & credentials
+##  Education & credentials
 
 - **MSc Health Data Science** — Swansea University *(in progress)*
 - **MSc Network Administration and Management** — University of Portsmouth *(Distinction)*
@@ -72,7 +72,7 @@ I'm a data professional with a background in Computer Science and Network Admini
 
 ---
 
-## 🌱 Background & interests
+##  Background & interests
 
 Before specialising in health data, I worked as a Teaching Assistant and Lab Supervisor at the University of Portsmouth, supervising a Virtualisation and Cloud Design module. Outside of academic work, I build things with Raspberry Pi — a home media server, IoT weather-based lighting, network monitoring tools, and a home security system.
 
@@ -80,7 +80,7 @@ I'm also an enthusiastic flight sim pilot on Microsoft Flight Simulator 2024 —
 
 ---
 
-## 📬 Let's connect
+##  Let's connect
 
 I'm actively seeking NHS data analyst and data engineer roles in the UK. If you're working on health data problems or hiring, I'd love to chat.
 
