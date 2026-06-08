@@ -23,6 +23,7 @@ I'm a data professional with a background in Computer Science and Network Admini
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-green)
 
 **Data & Analysis**
 
