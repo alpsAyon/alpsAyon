@@ -46,7 +46,7 @@ I'm a data professional with a background in Computer Science and Network Admini
 | Project | Description | Stack |
 |---|---|---|
 | [NHS Prescription Cost Analysis](https://github.com/alpsAyon/nhs-prescription-analysis) | Analysing prescribing trends and cost drivers across NHS regions using open prescribing data | Python, pandas, SQL |
-| [COVID-19 Wales Population Health](https://github.com/yousuf-hossain/covid19-wales-health) | Spatial analysis of COVID-19 outcomes against WIMD deprivation indices across Welsh health boards | R, tidyverse, ggplot2, sf |
+| [COVID-19 Wales Population Health](https://github.com/alpsAyon/covid19-wales-health) | Spatial analysis of COVID-19 outcomes against WIMD deprivation indices across Welsh health boards | R, tidyverse, ggplot2, sf |
 | [Cognitive Decline Predictor](https://github.com/yousuf-hossain/cognitive-decline-predictor) | Multiple linear regression examining lifestyle factors (sleep, BMI, exercise) as predictors of cognitive decline | R, ANOVA, regression |
 | [CVD Prediction ML](https://github.com/yousuf-hossain/cvd-prediction-ml) | Cardiovascular disease prediction model achieving 91% accuracy — BSc final year project | Python, scikit-learn |
 | [Kubernetes Resource Manager](https://github.com/yousuf-hossain/k8s-resource-manager) | Dynamic CPU/memory allocation tool for containerised environments — MSc Computer Science project | Python, Kubernetes |
