@@ -7,15 +7,15 @@ I'm a data professional with a background in Computer Science and Network Admini
 
 ---
 
-##  What I'm working on
+## What I'm working on
 
--  **NHS portfolio projects** — prescription cost analysis, A&E performance dashboards, and COVID-19 population health analysis for Wales
--  **Health data modelling** — investigating modifiable lifestyle factors as predictors of cognitive decline using regression analysis in R
--  **RTT waiting list SQL database** — modelling NHS referral-to-treatment pathways
+- **NHS portfolio projects** — prescription cost analysis, A&E performance dashboards, and COVID-19 population health analysis for Wales
+- **Health data modelling** — investigating modifiable lifestyle factors as predictors of cognitive decline using regression analysis in R
+- **RTT waiting list SQL database** — modelling NHS referral-to-treatment pathways
 
 ---
 
-##  Tech stack
+## Tech stack
 
 **Languages**
 
@@ -41,31 +41,27 @@ I'm a data professional with a background in Computer Science and Network Admini
 
 ---
 
-##  Featured projects
+## Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [NHS Prescription Cost Analysis](https://github.com/alpsAyon/nhs-prescription-analysis) | Analysing prescribing trends and cost drivers across NHS regions using open prescribing data | Python, pandas, SQL |
-| [COVID-19 Wales Population Health](https://github.com/alpsAyon/covid19-wales-health) | Spatial analysis of COVID-19 outcomes against WIMD deprivation indices across Welsh health boards | R, tidyverse, ggplot2, sf |
+| [NHS Prescription Cost Analysis](https://github.com/alpsAyon/nhs-prescription-analysis) | Analysing 313 million prescriptions to surface cost drivers and regional variation across NHS England | Python, pandas, matplotlib |
+| [COVID-19 Wales Population Health](https://github.com/alpsAyon/covid19-wales-health) | Population health analysis of COVID-19 outcomes across Welsh local authorities using WIMD deprivation indices | R, ggplot2 |
 | [Cognitive Decline Predictor](https://github.com/alpsAyon/cognitive-decline-predictor) | Multiple linear regression examining lifestyle factors (sleep, BMI, exercise) as predictors of cognitive decline | R, ANOVA, regression |
 | [CVD Prediction ML](https://github.com/alpsAyon/Cardiovascular-Disease-Prediction-Using-Data-Mining-Classification-Techniques) | Cardiovascular disease prediction model achieving 91% accuracy — BSc final year project | Python, scikit-learn |
 | [Kubernetes Resource Manager](https://github.com/alpsAyon/k8s-set-resource-limit) | Dynamic CPU/memory allocation tool for containerised environments — MSc Computer Science project | Python, Kubernetes |
 
 ---
 
-##  GitHub stats
+## GitHub stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpsAyon&theme=default" />
-</p>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpsAyon&theme=default)](https://github.com/alpsAyon)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alpsAyon&theme=default&hide_border=true" />
-</p>
+[![](https://streak-stats.demolab.com?user=alpsAyon&theme=default&hide_border=true)](https://github.com/alpsAyon)
 
 ---
 
-##  Education & credentials
+## Education & credentials
 
 - **MSc Health Data Science** — Swansea University *(in progress)*
 - **MSc Network Administration and Management** — University of Portsmouth *(Distinction)*
@@ -73,7 +69,7 @@ I'm a data professional with a background in Computer Science and Network Admini
 
 ---
 
-##  Background & interests
+## Background & interests
 
 Before specialising in health data, I worked as a Teaching Assistant and Lab Supervisor at the University of Portsmouth, supervising a Virtualisation and Cloud Design module. Outside of academic work, I build things with Raspberry Pi — a home media server, IoT weather-based lighting, network monitoring tools, and a home security system.
 
@@ -81,13 +77,14 @@ I'm also an enthusiastic flight sim pilot on Microsoft Flight Simulator 2024 —
 
 ---
 
-##  Let's connect
+## Let's connect
 
 I'm actively seeking NHS data analyst and data engineer roles in the UK. If you're working on health data problems or hiring, I'd love to chat.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/yousufaayon)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:2545745@swansea.ac.uk)
 
 ---
 
-<p align="center"><i>"Turning health data into decisions that matter."</i></p>
+*"Turning health data into decisions that matter."*
